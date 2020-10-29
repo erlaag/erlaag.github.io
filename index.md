@@ -19,7 +19,7 @@
      </td>
     </tr>
   </tabel>
-  <img src=space.jpg alt="space">
+  <img src=https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-zrLaHFf3JA0%2FTuKEFgyzCDI%2FAAAAAAAAAt4%2FJBWjx4ykUZQ%2Fs1600%2Fspace3.jpg&f=1&nofb=1 alt="space">
 </body>
 
 <footer>
