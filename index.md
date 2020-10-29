@@ -1,4 +1,3 @@
- <!DOCTYPE html>
 <html>
 <head>
 <title>Minu leht</title>
@@ -10,10 +9,14 @@
   
   <tabel>
     <tr>
+     <td>
       <h2>Some text here</h2>
+     </td>
     </tr>
     <tr>
+     <td>
       <h3>Some more text here aswell</h3>
+     </td>
     </tr>
   </tabel>
   <img src=space.jpg alt="space">
